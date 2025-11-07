@@ -68,6 +68,7 @@ mkdir -p data
 
 # Unduh dataset ke dalam folder data
 curl -L -o data/ulasanbcamobile2.csv "[https://github.com/b1n0r10n/sentiment-analysis-bca-mobile/releases/download/v0.1.0/ulasanbcamobile2.csv](https://github.com/b1n0r10n/sentiment-analysis-bca-mobile/releases/download/v0.1.0/ulasanbcamobile2.csv)"
+```
 
 ---
 
