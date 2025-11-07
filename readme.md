@@ -61,8 +61,8 @@ Karena ukuran file melebihi batas GitHub (100 MB), data disimpan terpisah di **G
 - **Versi rilis:** `v0.1.0`  
 - **Tautan unduh langsung:** [⬇️ Download CSV](https://github.com/b1n0r10n/sentiment-analysis-bca-mobile/releases/download/v0.1.0/ulasanbcamobile2.csv)
 
-### Unduh via Command Line
-'''bash
+## Unduh via Command Line
+```bash
 # Buat folder data jika belum ada
 mkdir -p data
 
